@@ -1,3 +1,4 @@
 User-agent: *
 Allow: /
 Sitemap: https://local-business-guides.github.io/eagle-tree-experts-dallas/sitemap.xml
+Sitemap: https://local-business-guides.github.io/eagle-tree-experts-dallas/news-sitemap.xml
